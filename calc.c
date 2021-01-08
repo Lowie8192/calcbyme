@@ -35,7 +35,7 @@ int main()
 		printf("Something went wrong...\n");	
 	}
 	
-	printf("This (awesome) program is made by Lowie8192!");	
+	printf("This (awesome) program is made by Lowie8192!\n");	
 
 	return 0;
 }
